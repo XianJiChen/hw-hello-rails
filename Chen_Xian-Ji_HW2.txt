@@ -1,1 +1,1 @@
-https://hw-hello-rails.herokuapp.com/movies
+https://hw-hello-rails2.herokuapp.com/movies
